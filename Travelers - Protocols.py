@@ -1,5 +1,4 @@
-# In serialul Travelers exista o serie de protocoale care trebuie urmate. Codul de mai jos va afisa textul
-# aferent fiecarui protocol
+# In the Travelers series on Netflix, there are few protocols that the characters must respect. Let's present them along with the explanation to you :)
 print("Welcome!\nSince you are here, I think you saw the Travelers Series on Netflix. Let's get to know each other.")
 print("I am the director, also known as 001. Who are you Traveler?")
 traveler_number = input("Enter your number, Traveler!\n")
